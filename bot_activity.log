@@ -1,0 +1,150 @@
+2025-12-20 16:53:08,714 - INFO - 🚀 Starting Flask API Server...
+2025-12-20 16:53:08,856 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.10.126:5001
+2025-12-20 16:53:08,857 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-20 16:53:11,717 - INFO - 🚀 Main execution block started.
+2025-12-20 16:53:11,718 - INFO - 🎮 Starting TCP client for ID: 4128631399
+2025-12-20 16:53:14,114 - INFO - Token decoded and processed. Account ID: 13099974979
+2025-12-20 16:53:14,116 - INFO - Final token constructed successfully.
+2025-12-20 16:53:14,259 - INFO - ✅ TCP Bot is online and waiting for commands...
+2025-12-20 16:53:14,260 - INFO - 📋 Checking command queue every 2 seconds...
+2025-12-20 16:53:14,322 - INFO - ✅ Connected to port 39699 Host 202.81.106.143
+2026-01-06 19:25:54,548 - INFO - 🚀 Starting Flask API Server...
+2026-01-06 19:25:54,565 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5901
+ * Running on http://192.0.0.4:5901
+2026-01-06 19:25:54,565 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 19:25:57,549 - INFO - 🚀 Main execution block started.
+2026-01-06 19:25:57,549 - INFO - 🎮 Starting TCP client for ID: 4369409767
+2026-01-06 19:27:00,594 - ERROR - Error in guest_token: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by ConnectTimeoutError(<HTTPSConnection(host='100067.connect.garena.com', port=443) at 0x7cf764e690>, 'Connection to 100067.connect.garena.com timed out. (connect timeout=None)'))
+2026-01-06 19:27:00,605 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-01-06 19:27:00,607 - WARNING - Initiating bot restart...
+2026-01-06 19:27:00,639 - ERROR - Error during pre-restart cleanup: (pid=9530)
+2026-01-06 19:27:01,713 - INFO - 🚀 Starting Flask API Server...
+2026-01-06 19:27:04,714 - INFO - 🚀 Main execution block started.
+2026-01-06 19:27:04,715 - INFO - 🎮 Starting TCP client for ID: 4369409767
+2026-01-06 19:27:14,458 - ERROR - Error in guest_token: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NewConnectionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to establish a new connection: [Errno 103] Software caused connection abort"))
+2026-01-06 19:27:14,459 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-01-06 19:27:14,459 - WARNING - Initiating bot restart...
+2026-01-06 19:27:14,477 - ERROR - Error during pre-restart cleanup: (pid=9530)
+2026-01-06 19:27:15,360 - INFO - 🚀 Starting Flask API Server...
+2026-01-06 19:27:18,361 - INFO - 🚀 Main execution block started.
+2026-01-06 19:27:18,362 - INFO - 🎮 Starting TCP client for ID: 4369409767
+2026-01-06 19:27:24,382 - ERROR - Error in guest_token: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-06 19:27:24,383 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-01-06 19:27:24,383 - WARNING - Initiating bot restart...
+2026-01-06 19:27:24,398 - ERROR - Error during pre-restart cleanup: (pid=9530)
+2026-01-06 19:27:26,050 - INFO - 🚀 Starting Flask API Server...
+2026-01-06 19:27:29,060 - INFO - 🚀 Main execution block started.
+2026-01-06 19:27:29,060 - INFO - 🎮 Starting TCP client for ID: 4369409767
+2026-01-06 19:28:33,501 - ERROR - Error in guest_token: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by ConnectTimeoutError(<HTTPSConnection(host='100067.connect.garena.com', port=443) at 0x7a48899dc0>, 'Connection to 100067.connect.garena.com timed out. (connect timeout=None)'))
+2026-01-06 19:28:33,504 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-01-06 19:28:33,505 - WARNING - Initiating bot restart...
+2026-01-06 19:28:33,558 - ERROR - Error during pre-restart cleanup: (pid=9530)
+2026-01-06 19:28:36,765 - INFO - 🚀 Starting Flask API Server...
+2026-01-06 19:28:39,775 - INFO - 🚀 Main execution block started.
+2026-01-06 19:28:39,776 - INFO - 🎮 Starting TCP client for ID: 4369409767
+2026-01-06 19:28:54,906 - ERROR - Error in guest_token: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NewConnectionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to establish a new connection: [Errno 103] Software caused connection abort"))
+2026-01-06 19:28:54,908 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-01-06 19:28:54,908 - WARNING - Initiating bot restart...
+2026-01-06 19:28:54,948 - ERROR - Error during pre-restart cleanup: (pid=9530)
+2026-01-06 19:28:58,346 - INFO - 🚀 Starting Flask API Server...
+2026-01-06 19:29:01,356 - INFO - 🚀 Main execution block started.
+2026-01-06 19:29:01,356 - INFO - 🎮 Starting TCP client for ID: 4369409767
+2026-01-06 19:30:04,379 - ERROR - Error in guest_token: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by ConnectTimeoutError(<HTTPSConnection(host='100067.connect.garena.com', port=443) at 0x6ee79a15e0>, 'Connection to 100067.connect.garena.com timed out. (connect timeout=None)'))
+2026-01-06 19:30:04,382 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-01-06 19:30:04,382 - WARNING - Initiating bot restart...
+2026-01-06 19:30:04,395 - ERROR - Error during pre-restart cleanup: (pid=9530)
+2026-01-06 19:30:07,175 - INFO - 🚀 Starting Flask API Server...
+2026-01-06 19:30:10,185 - INFO - 🚀 Main execution block started.
+2026-01-06 19:30:10,185 - INFO - 🎮 Starting TCP client for ID: 4369409767
+2026-01-06 19:31:13,238 - ERROR - Error in guest_token: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by ConnectTimeoutError(<HTTPSConnection(host='100067.connect.garena.com', port=443) at 0x715431d7c0>, 'Connection to 100067.connect.garena.com timed out. (connect timeout=None)'))
+2026-01-06 19:31:13,240 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-01-06 19:31:13,241 - WARNING - Initiating bot restart...
+2026-01-06 19:31:13,249 - ERROR - Error during pre-restart cleanup: (pid=9530)
+2026-01-06 19:31:14,520 - INFO - 🚀 Starting Flask API Server...
+2026-01-06 19:31:17,520 - INFO - 🚀 Main execution block started.
+2026-01-06 19:31:17,521 - INFO - 🎮 Starting TCP client for ID: 4369409767
+2026-01-06 19:33:36,967 - INFO - 🚀 Starting Flask API Server...
+2026-01-06 19:33:37,019 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5901
+ * Running on http://192.0.0.4:5901
+2026-01-06 19:33:37,020 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 19:33:39,968 - INFO - 🚀 Main execution block started.
+2026-01-06 19:33:39,969 - INFO - 🎮 Starting TCP client for ID: 4343364848
+2026-01-06 19:33:45,993 - ERROR - Error in guest_token: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-06 19:33:45,993 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-01-06 19:33:45,994 - WARNING - Initiating bot restart...
+2026-01-06 19:33:45,998 - ERROR - Error during pre-restart cleanup: (pid=19611)
+2026-01-06 19:33:46,693 - INFO - 🚀 Starting Flask API Server...
+2026-01-06 19:33:49,694 - INFO - 🚀 Main execution block started.
+2026-01-06 19:33:49,695 - INFO - 🎮 Starting TCP client for ID: 4343364848
+2026-01-06 19:34:54,174 - ERROR - Error in guest_token: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by ConnectTimeoutError(<HTTPSConnection(host='100067.connect.garena.com', port=443) at 0x76017224b0>, 'Connection to 100067.connect.garena.com timed out. (connect timeout=None)'))
+2026-01-06 19:34:54,176 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-01-06 19:34:54,177 - WARNING - Initiating bot restart...
+2026-01-06 19:34:54,195 - ERROR - Error during pre-restart cleanup: (pid=19611)
+2026-01-06 19:34:56,748 - INFO - 🚀 Starting Flask API Server...
+2026-01-06 19:34:59,758 - INFO - 🚀 Main execution block started.
+2026-01-06 19:34:59,760 - INFO - 🎮 Starting TCP client for ID: 4343364848
+2026-01-06 19:36:06,894 - ERROR - Error in guest_token: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by ConnectTimeoutError(<HTTPSConnection(host='100067.connect.garena.com', port=443) at 0x6eda5d08f0>, 'Connection to 100067.connect.garena.com timed out. (connect timeout=None)'))
+2026-01-06 19:36:06,904 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-01-06 19:36:06,906 - WARNING - Initiating bot restart...
+2026-01-06 19:36:06,925 - ERROR - Error during pre-restart cleanup: (pid=19611)
+2026-01-06 19:36:08,170 - INFO - 🚀 Starting Flask API Server...
+2026-01-06 19:36:11,171 - INFO - 🚀 Main execution block started.
+2026-01-06 19:36:11,171 - INFO - 🎮 Starting TCP client for ID: 4343364848
+2026-01-06 19:37:14,198 - ERROR - Error in guest_token: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by ConnectTimeoutError(<HTTPSConnection(host='100067.connect.garena.com', port=443) at 0x7c4947ac00>, 'Connection to 100067.connect.garena.com timed out. (connect timeout=None)'))
+2026-01-06 19:37:14,200 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-01-06 19:37:14,200 - WARNING - Initiating bot restart...
+2026-01-06 19:37:14,221 - ERROR - Error during pre-restart cleanup: (pid=19611)
+2026-01-06 19:37:19,635 - INFO - 🚀 Starting Flask API Server...
+2026-01-06 19:37:22,644 - INFO - 🚀 Main execution block started.
+2026-01-06 19:37:22,645 - INFO - 🎮 Starting TCP client for ID: 4343364848
+2026-01-06 19:38:25,637 - ERROR - Error in guest_token: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by ConnectTimeoutError(<HTTPSConnection(host='100067.connect.garena.com', port=443) at 0x7386641ee0>, 'Connection to 100067.connect.garena.com timed out. (connect timeout=None)'))
+2026-01-06 19:38:25,641 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-01-06 19:38:25,642 - WARNING - Initiating bot restart...
+2026-01-06 19:38:25,671 - ERROR - Error during pre-restart cleanup: (pid=19611)
+2026-01-06 19:38:28,003 - INFO - 🚀 Starting Flask API Server...
+2026-01-06 19:38:31,011 - INFO - 🚀 Main execution block started.
+2026-01-06 19:38:31,012 - INFO - 🎮 Starting TCP client for ID: 4343364848
+2026-01-06 19:39:33,974 - ERROR - Error in guest_token: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by ConnectTimeoutError(<HTTPSConnection(host='100067.connect.garena.com', port=443) at 0x776b068830>, 'Connection to 100067.connect.garena.com timed out. (connect timeout=None)'))
+2026-01-06 19:39:33,976 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-01-06 19:39:33,977 - WARNING - Initiating bot restart...
+2026-01-06 19:39:33,992 - ERROR - Error during pre-restart cleanup: (pid=19611)
+2026-01-06 19:39:36,264 - INFO - 🚀 Starting Flask API Server...
+2026-01-06 19:39:39,275 - INFO - 🚀 Main execution block started.
+2026-01-06 19:39:39,276 - INFO - 🎮 Starting TCP client for ID: 4343364848
+2026-01-06 19:40:42,336 - ERROR - Error in guest_token: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by ConnectTimeoutError(<HTTPSConnection(host='100067.connect.garena.com', port=443) at 0x717b00b950>, 'Connection to 100067.connect.garena.com timed out. (connect timeout=None)'))
+2026-01-06 19:40:42,342 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-01-06 19:40:42,344 - WARNING - Initiating bot restart...
+2026-01-06 19:40:42,361 - ERROR - Error during pre-restart cleanup: (pid=19611)
+2026-01-06 19:40:44,377 - INFO - 🚀 Starting Flask API Server...
+2026-01-06 19:40:47,411 - INFO - 🚀 Main execution block started.
+2026-01-06 19:40:47,412 - INFO - 🎮 Starting TCP client for ID: 4343364848
+2026-01-06 19:41:50,444 - ERROR - Error in guest_token: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by ConnectTimeoutError(<HTTPSConnection(host='100067.connect.garena.com', port=443) at 0x78b8da6360>, 'Connection to 100067.connect.garena.com timed out. (connect timeout=None)'))
+2026-01-06 19:41:50,452 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-01-06 19:41:50,454 - WARNING - Initiating bot restart...
+2026-01-06 19:41:50,486 - ERROR - Error during pre-restart cleanup: (pid=19611)
+2026-01-06 19:41:52,954 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.0.0.4:5000
+2026-01-06 19:41:52,955 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 19:44:41,893 - INFO - ✅ API Request 85653578: 5-squad for UID: 5513136279
+2026-01-06 19:44:41,916 - INFO - 192.0.0.4 - - [06/Jan/2026 19:44:41] "GET /5?uid=5513136279 HTTP/1.1" 200 -
+2026-01-06 19:44:42,113 - INFO - 192.0.0.4 - - [06/Jan/2026 19:44:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-06 19:45:33,174 - INFO - ✅ API Request 283dcfc0: 5-squad for UID: 5513136279
+2026-01-06 19:45:33,180 - INFO - 192.0.0.4 - - [06/Jan/2026 19:45:33] "GET /5?uid=5513136279 HTTP/1.1" 200 -
+2026-01-06 19:46:26,044 - INFO - 192.0.0.4 - - [06/Jan/2026 19:46:26] "[31m[1mGET /5?spm=5513136279 HTTP/1.1[0m" 400 -
+2026-01-06 19:47:00,952 - INFO - 192.0.0.4 - - [06/Jan/2026 19:47:00] "[31m[1mGET /5?spm?uid=5513136279 HTTP/1.1[0m" 400 -
+2026-01-06 19:48:01,405 - INFO - ✅ API Request 824d87db: Squad Spam for UID: 5513136279
+2026-01-06 19:48:01,408 - INFO - 192.0.0.4 - - [06/Jan/2026 19:48:01] "GET /spm?uid=5513136279 HTTP/1.1" 200 -
+2026-01-06 19:54:19,205 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.0.0.4:5000
+2026-01-06 19:54:19,206 - INFO - [33mPress CTRL+C to quit[0m
